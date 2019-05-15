@@ -1,0 +1,20 @@
+{
+  "name": "sequelize-json-type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YourSoftRun/sequelize-json-type.git"
+  },
+  "author": "Hugo Meyronneinc <hugo@yoursoft.run>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YourSoftRun/sequelize-json-type/issues"
+  },
+  "keywords": [
+    "squelize",
+    "json"
+  ],
+  "homepage": "https://github.com/YourSoftRun/sequelize-json-type#readme"
+}
